@@ -46,7 +46,7 @@ This project demonstrates how to fine-tune a GPT-2 model on the NarrativeQA data
 
 1. To fine-tune the GPT-2 model on the NarrativeQA dataset, simply run the main script:
     ```bash
-    python main.py
+    python training_code (1).py
     ```
 
     This will load the NarrativeQA dataset, preprocess the data, fine-tune the model, and save the best model based on the training process.
